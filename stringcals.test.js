@@ -1,3 +1,4 @@
+//2. scenario and 3. expectation
 const myTest = require('./script.js');
 const stringLength = myTest.stringLength;
 const reverseString = myTest.reverseString;
